@@ -228,7 +228,7 @@ def dfs_var_mul(a,b,eqs):
 code = ""
 
 #print(sys.argv[1])
-k=int(sys.argv[1])-1
+k=int(sys.argv[1])
 
 var_in0 = [Var(1) for i in range(2**(k+1))]
 var_in1 = [Var(1) for i in range(2**(k+1))]
