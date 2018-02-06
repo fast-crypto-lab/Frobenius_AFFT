@@ -1,4 +1,4 @@
-Generate binary polynomial multiplication bit operations
+Generate binary polynomial multiplication bit operations using Frobenius additive fast Fourier transform algorithm
 usage:
 $ python affft_codegen.py [log_2(input_size)]
 
