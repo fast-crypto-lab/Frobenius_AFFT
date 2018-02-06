@@ -1,0 +1,7 @@
+Generate binary polynomial multiplication bit operations
+usage:
+$ python affft_codegen.py [log_2(input_size)]
+
+Example:
+$ python affft_codegen.py 8
+It will generate bit operations of binary polynomial multiplication with two input size 256 and output size 512
