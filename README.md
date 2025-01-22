@@ -7,6 +7,8 @@
 >
 > ACM International Symposium on Symbolic and Algebraic Computation (ISSAC) 2018
 
+[Conference Presentation Slides](slides.pdf)
+
 ## Introduction
 
 Binary polynomial multiplication, i.e. polynomial multiplication over the boolean field, arises in many hardware applications, such as Reed-Solomon codes and cryptographic applications like AES.
